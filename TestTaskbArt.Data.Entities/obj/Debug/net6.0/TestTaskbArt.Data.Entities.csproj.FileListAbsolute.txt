@@ -1,0 +1,12 @@
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\bin\Debug\net6.0\TestTaskbArt.Data.Entities.deps.json
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\bin\Debug\net6.0\TestTaskbArt.Data.Entities.dll
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\bin\Debug\net6.0\TestTaskbArt.Data.Entities.pdb
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.csproj.AssemblyReference.cache
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.AssemblyInfo.cs
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.dll
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\refint\TestTaskbArt.Data.Entities.dll
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\TestTaskbArt.Data.Entities.pdb
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TestTaskbArt.Data.Entities\obj\Debug\net6.0\ref\TestTaskbArt.Data.Entities.dll

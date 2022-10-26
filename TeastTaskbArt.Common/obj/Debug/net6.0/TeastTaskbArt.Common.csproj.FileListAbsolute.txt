@@ -1,0 +1,12 @@
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\bin\Debug\net6.0\TeastTaskbArt.Common.deps.json
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\bin\Debug\net6.0\TeastTaskbArt.Common.dll
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\bin\Debug\net6.0\TeastTaskbArt.Common.pdb
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.csproj.AssemblyReference.cache
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.AssemblyInfoInputs.cache
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.AssemblyInfo.cs
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.csproj.CoreCompileInputs.cache
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.dll
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\refint\TeastTaskbArt.Common.dll
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\TeastTaskbArt.Common.pdb
+C:\Users\SkyNet\RiderProjects\TestTaskbArt\TeastTaskbArt.Common\obj\Debug\net6.0\ref\TeastTaskbArt.Common.dll
